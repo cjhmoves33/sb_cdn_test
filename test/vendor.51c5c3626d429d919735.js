@@ -16,7 +16,7 @@
   \************************/
 /***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
 
-eval("__webpack_require__.r(__webpack_exports__);\n/* harmony import */ var handlebars__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! handlebars */ \"./node_modules/handlebars/dist/cjs/handlebars.js\");\n/* harmony import */ var handlebars__WEBPACK_IMPORTED_MODULE_0___default = /*#__PURE__*/__webpack_require__.n(handlebars__WEBPACK_IMPORTED_MODULE_0__);\n\nwindow.Handlebars = (handlebars__WEBPACK_IMPORTED_MODULE_0___default());\n\n//# sourceURL=webpack://handlebars/./test/vendor.js?");
+eval("__webpack_require__.r(__webpack_exports__);\n/* harmony import */ var handlebars__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! handlebars */ \"./node_modules/handlebars/dist/cjs/handlebars.js\");\n/* harmony import */ var handlebars__WEBPACK_IMPORTED_MODULE_0___default = /*#__PURE__*/__webpack_require__.n(handlebars__WEBPACK_IMPORTED_MODULE_0__);\n\n// var Handlebars = require(\"handlebars\");\nconsole.log(\"Handlebars\", (handlebars__WEBPACK_IMPORTED_MODULE_0___default()));\nwindow.Handlebars = (handlebars__WEBPACK_IMPORTED_MODULE_0___default());\nconsole.log(\"window.Handlebars\", window.Handlebars);\n\n//# sourceURL=webpack://handlebars/./test/vendor.js?");
 
 /***/ }),
 
